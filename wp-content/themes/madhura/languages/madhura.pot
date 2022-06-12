@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-23 08:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:86
+msgid "Madhura Effects"
+msgstr ""
+
+#: functions.php:106
+msgid "Background for top and bottom"
+msgstr ""
+
+#: functions.php:108 functions.php:133 functions.php:158 functions.php:247
+#: functions.php:272
+msgid "Enable"
+msgstr ""
+
+#: functions.php:109 functions.php:134 functions.php:159 functions.php:248
+#: functions.php:273
+msgid "Disable"
+msgstr ""
+
+#: functions.php:131
+msgid "Title stroke"
+msgstr ""
+
+#: functions.php:156
+msgid "Madhura navigation style"
+msgstr ""
+
+#: functions.php:181
+msgid "Color 1 for navigation buttons"
+msgstr ""
+
+#: functions.php:202
+msgid "Color 2 for navigation buttons"
+msgstr ""
+
+#: functions.php:223
+msgid "Color 3 for navigation buttons"
+msgstr ""
+
+#: functions.php:245
+msgid "Madhura scrollbar style"
+msgstr ""
+
+#: functions.php:270
+msgid "Top bar content scroll"
+msgstr ""
